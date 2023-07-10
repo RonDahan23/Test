@@ -23,6 +23,7 @@ public class Main {
         String right = parts[1];
         System.out.println(left + right);
 
+        System.out.println("Hello World");
     }
 
 }
